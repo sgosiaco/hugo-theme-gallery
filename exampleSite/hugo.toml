@@ -5,7 +5,7 @@ disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 timeZone = "Europe/Berlin"
-theme = "github.com/nicokaiser/hugo-theme-gallery/v2"
+theme = "github.com/sgosiaco/hugo-theme-gallery/v2"
 
 [params]
   title = "My Gallery"
@@ -36,5 +36,5 @@ theme = "github.com/nicokaiser/hugo-theme-gallery/v2"
 [menu]
 [[menu.footer]]
   name = "GitHub"
-  url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+  url = "https://github.com/sgosiaco/hugo-theme-gallery/"
   weight = 3

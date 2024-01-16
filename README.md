@@ -7,7 +7,7 @@ A very simple and opinionated photo gallery theme for Hugo built with Tailwind C
 
 ---
 
-![Screenshot](https://github.com/nicokaiser/hugo-theme-gallery/raw/main/images/screenshot.jpg)
+![Screenshot](https://github.com/sgosiaco/hugo-theme-gallery/raw/main/images/screenshot.jpg)
 
 ---
 
@@ -36,13 +36,13 @@ $ hugo mod init github.com/<your_user>/<your_project>
 Add the theme to your `hugo.toml`
 
 ```
-theme = ["github.com/nicokaiser/hugo-theme-gallery/v2"]
+theme = ["github.com/sgosiaco/hugo-theme-gallery/v2"]
 ```
 
 ### As Git Submodule
 
 ```
-$ git submodule add --depth=1 https://github.com/nicokaiser/hugo-theme-gallery.git themes/gallery
+$ git submodule add --depth=1 https://github.com/sgosiaco/hugo-theme-gallery.git themes/gallery
 ```
 
 ## Usage
